@@ -1,0 +1,14 @@
+Holder_name=  xyz
+Bank_name=  STATE BANK OF INDIA
+Branch=  pq
+Account_no=  465666
+Account_type=  Credit
+Costumer_id=  a3s44
+Ifsc=  SBI2234
+Adhar_no=  2345678910
+DOB=  12/2/1997
+Phone_no=  98764523
+Pan_no=  4645454
+Email=  xyz@gmail.com
+Address=  cvb 
+
